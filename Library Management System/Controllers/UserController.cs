@@ -63,7 +63,7 @@ namespace Library_Management_System.Controllers
                 if(response>0)
                 {
                     //returning the result back
-                    //Though some sensitive data could be hidden like password but for similicity
+                    //Though some sensitive data could be hidden like password but for simplicity
                     //we are returning every data from the user registration
                     var entity = await BusinessServiceManager.GetAsync(response);
                   
@@ -71,7 +71,7 @@ namespace Library_Management_System.Controllers
                 }
                 else
                 {
-                    return Ok("Registration could not be created");
+                    return Ok("Registration failed");
                 }
 
             }
