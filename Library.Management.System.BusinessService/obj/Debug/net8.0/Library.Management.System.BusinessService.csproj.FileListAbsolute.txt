@@ -1,0 +1,17 @@
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.BusinessService.deps.json
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.BusinessService.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.BusinessService.pdb
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.AssemblyInfoInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.AssemblyInfo.cs
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.csproj.CoreCompileInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\refint\Library.Management.System.BusinessService.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.pdb
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\ref\Library.Management.System.BusinessService.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library.Management.System.BusinessService.csproj.AssemblyReference.cache
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.Core.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.Repository.dll
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.Core.pdb
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\bin\Debug\net8.0\Library.Management.System.Repository.pdb
+C:\Projects\LawPavilion\Library.Management.System.BusinessService\obj\Debug\net8.0\Library..FF1379B2.Up2Date

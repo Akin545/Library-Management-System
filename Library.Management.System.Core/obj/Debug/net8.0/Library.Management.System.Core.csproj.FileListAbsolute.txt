@@ -1,0 +1,11 @@
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.AssemblyInfoInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.AssemblyInfo.cs
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.csproj.CoreCompileInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.Core\bin\Debug\net8.0\Library.Management.System.Core.deps.json
+C:\Projects\LawPavilion\Library.Management.System.Core\bin\Debug\net8.0\Library.Management.System.Core.dll
+C:\Projects\LawPavilion\Library.Management.System.Core\bin\Debug\net8.0\Library.Management.System.Core.pdb
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.dll
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\refint\Library.Management.System.Core.dll
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\Library.Management.System.Core.pdb
+C:\Projects\LawPavilion\Library.Management.System.Core\obj\Debug\net8.0\ref\Library.Management.System.Core.dll

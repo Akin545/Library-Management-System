@@ -1,0 +1,17 @@
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.csproj.AssemblyReference.cache
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.AssemblyInfoInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.AssemblyInfo.cs
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Repository.deps.json
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Repository.runtimeconfig.json
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Repository.dll
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Repository.pdb
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Core.dll
+C:\Projects\LawPavilion\Library.Management.System.Repository\bin\Debug\net8.0\Library.Management.System.Core.pdb
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library..B5CCF3EE.Up2Date
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.dll
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\refint\Library.Management.System.Repository.dll
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.pdb
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\Library.Management.System.Repository.genruntimeconfig.cache
+C:\Projects\LawPavilion\Library.Management.System.Repository\obj\Debug\net8.0\ref\Library.Management.System.Repository.dll
