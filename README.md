@@ -16,7 +16,7 @@ Architecture		Layered (Presentation,Business,Repository)
 Setup & Running Instructions
 
 Clone the repository
-git clone https://github.com/Akin545/Library.Management.System
+git clone https://github.com/Akin545/Library-Management-System
 cd LibraryManagementSystem
 
 Configure the database
