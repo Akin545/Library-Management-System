@@ -59,7 +59,21 @@ namespace Library_Management_System.Controllers
                 SetAuditInformation(result);
 
                 var response = await BusinessServiceManager.AddAsync(result);
-                return Ok(response);
+
+                if(response>0)
+                {
+                    //returning the result back
+                    //Though some sensitive data could be hidden like password but for similicity
+                    //we are returning every data from the user registration
+                    var entity = await BusinessServiceManager.GetAsync(response);
+                  
+                    return Ok(entity);
+                }
+                else
+                {
+                    return Ok("Registration could not be created");
+                }
+
             }
             catch (UserException ex)
             {
