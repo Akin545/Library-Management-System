@@ -24,8 +24,12 @@ Edit the appsettings.json file in the API project to set your SQL Server connect
 "ConnectionStrings": {
   "Sql": "Server=localhost;Database=BookDb;Trusted_Connection=True;TrustServerCertificate=True;"
 }
+Ensure to set Database=BookDb
+After proper settings run the application and the database BookDB is Applied and created automatically.
 
-After proper settings run the application and the database BookDB is Applied created automatically.
+Note this endpoint https://localhost:7255/api/Book/Search can serve two purpose
+1. For search functionality
+2. To retrieve all books(To perform this task leave the author and title textbox blank)
 
 Other options
 Use the .NET CLI to create and update the database:

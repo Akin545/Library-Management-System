@@ -98,7 +98,7 @@ namespace Library_Management_System.Controllers
         [HttpGet()]
         [Route("Search")]
         [SwaggerOperation(
-        Summary = "Users can search books by author or titles",
+        Summary = "Users can search books by author or titles. Note: this endpoint also serve to retrieve all books if author and title textbox are left blank",
         Tags = new[] { "Books" }
 
         )]
@@ -248,7 +248,7 @@ namespace Library_Management_System.Controllers
         }
 
         [HttpPut("{id}")]
-      
+       
         [SwaggerOperation(
         Summary = "Users/Admin can update book by id",
         Tags = new[] { "Books" }
