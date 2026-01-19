@@ -129,7 +129,7 @@ namespace Library.Management.System.Repository
                 using (var scope = ScopeFactory.CreateScope())
                 {
                     var databaseContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-                    await databaseContext.Books.Where(t => t.Id == entity.Id).ExecuteDeleteAsync();
+                    await databaseContext.Set<TEntity>().Where(t => t.Id == entity.Id).ExecuteDeleteAsync();
                 }
 
                 var typeName = Entity?.GetType()?.Name;

@@ -248,7 +248,7 @@ namespace Library_Management_System.Controllers
         }
 
         [HttpPut("{id}")]
-        [Authorize]
+      
         [SwaggerOperation(
         Summary = "Users/Admin can update book by id",
         Tags = new[] { "Books" }
